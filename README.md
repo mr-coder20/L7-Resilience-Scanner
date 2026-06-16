@@ -23,6 +23,9 @@
 ### 🛠 Installation
 ```bash
 git clone [https://github.com/mr-coder20/L7-Resilience-Scanner.git](https://github.com/mr-coder20/L7-Resilience-Scanner.git)
+cd L7-Resilience-Scanner
+pip install -r requirements.txt
+python engine.py
 ```
 
 
