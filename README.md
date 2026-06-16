@@ -1,5 +1,7 @@
 
-# 🚀 L7 Resilience Scanner – Advanced Layer 7 DDoS Detection & Traffic Analysis Tool
+# L7 Resilience Scanner
+
+Real-time Layer 7 DDoS detection and HTTP traffic analysis tool for security engineers and SOC teams.
 
 ## 🇺🇸 English Version
 
