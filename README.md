@@ -26,7 +26,9 @@ It simulates real-world traffic patterns to help developers and DevOps engineers
 
 ## 🎬 Demo
 
-assets/demo.gif
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-coder20/L7-Resilience-Scanner/main/assets/demo.gif" />
+</p>
 
 ---
 
