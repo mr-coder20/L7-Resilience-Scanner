@@ -26,7 +26,7 @@ It simulates real-world traffic patterns to help developers and DevOps engineers
 
 ## 🎬 Demo
 
-(Add your demo GIF in assets/demo.gif)
+assets/demo.gif
 
 ---
 
