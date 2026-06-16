@@ -1,5 +1,5 @@
 
-# 🚀 L7 Resilience Scanner
+# 🚀 L7 Resilience Scanner – Advanced Layer 7 DDoS Detection & Traffic Analysis Tool
 
 ## 🇺🇸 English Version
 
