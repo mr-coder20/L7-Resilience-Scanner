@@ -1,2 +1,8 @@
 requests
 colorama
+aiohttp
+httpx 
+brotli 
+zstandard 
+fake-useragent
+aiohttp-socks
